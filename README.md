@@ -298,11 +298,11 @@ if ($conn == false)
 
 - Berikut adalah tampilan home :
 
-![1](https://github.com/afinurul2/Lab4Web/assets/145902372/87e41572-f34c-4361-86d6-c9405a3dbc33)
+![1](https://github.com/AltairAlvaro/lab4web/assets/148959971/2f75ebb5-d530-40c5-875a-47e071f3a0ac)
 
 - Berikut adalah tampilan tambah :
 
-![2](https://github.com/afinurul2/Lab4Web/assets/145902372/1603b6f2-ab72-41c4-bdde-53e49e6e461a)
+![2](https://github.com/AltairAlvaro/lab4web/assets/148959971/e539bbb3-0b82-4dbe-b5e7-8d2dc1024833)
 
 8. Membuat Routing
 
