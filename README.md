@@ -355,10 +355,10 @@ Cara aksesnya menjadi :
 
 - Halaman Home ( http://localhost/lab4_php_modular/home )
 
-![5](https://github.com/AltairAlvaro/lab4web/assets/lab4web.png)
+![5](https://github.com/AltairAlvaro/lab4web/assets/148959971/2f75ebb5-d530-40c5-875a-47e071f3a0ac)
 
 - Halaman Tambah ( http://localhost/lab4_php_modular/tambah )
 
-![6](https://github.com/afinurul2/Lab4Web/assets/145902372/6fe33542-2ea6-4594-95f3-06cf9f46d3ce)
+![6](https://github.com/AltairAlvaro/lab4web/assets/148959971/e539bbb3-0b82-4dbe-b5e7-8d2dc1024833)
 
 ## Terimakasih!
